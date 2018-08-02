@@ -10,13 +10,12 @@ import org.springframework.web.bind.annotation.GetMapping;
 import java.util.Map;
 
 @Controller
-@EnableAutoConfiguration
 public class TemplateController {
 
     private final Logger log = LoggerFactory.getLogger(TemplateController.class);
 
-    @GetMapping("/")
-    public String index(Model model) {
+    @GetMapping("/welcome")
+    public String index() {
 
         log.debug("index");
 

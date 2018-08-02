@@ -40,3 +40,79 @@
 2018-08-02 20:43:57 DEBUG b.i.d.controller.TemplateController - index
 2018-08-02 20:43:57 DEBUG b.i.d.controller.TemplateController - index
 2018-08-02 20:44:07 DEBUG b.i.d.controller.TemplateController - index
+2018-08-02 21:45:46 INFO  by.itechart.demo.DemoApplication - Starting DemoApplication on DESKTOP-EHL98F8 with PID 5692 (D:\JavaProjects\demo\target\classes started by Компьютер in D:\JavaProjects\demo)
+2018-08-02 21:45:46 DEBUG by.itechart.demo.DemoApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-02 21:45:46 INFO  by.itechart.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2018-08-02 21:45:48 INFO  by.itechart.demo.DemoApplication - Started DemoApplication in 2.671 seconds (JVM running for 4.754)
+2018-08-02 21:46:27 DEBUG b.i.d.controller.TemplateController - index
+2018-08-02 21:48:35 DEBUG b.i.d.controller.TemplateController - index
+2018-08-02 21:51:43 INFO  by.itechart.demo.DemoApplication - Starting DemoApplication on DESKTOP-EHL98F8 with PID 7352 (D:\JavaProjects\demo\target\classes started by Компьютер in D:\JavaProjects\demo)
+2018-08-02 21:51:43 DEBUG by.itechart.demo.DemoApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-02 21:51:43 INFO  by.itechart.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2018-08-02 21:51:46 INFO  by.itechart.demo.DemoApplication - Started DemoApplication in 3.394 seconds (JVM running for 14.113)
+2018-08-02 21:51:55 DEBUG b.i.d.controller.TemplateController - index
+2018-08-02 21:51:58 DEBUG b.i.d.controller.TemplateController - index
+2018-08-02 21:54:11 INFO  by.itechart.demo.DemoApplication - Starting DemoApplication on DESKTOP-EHL98F8 with PID 3544 (D:\JavaProjects\demo\target\classes started by Компьютер in D:\JavaProjects\demo)
+2018-08-02 21:54:11 DEBUG by.itechart.demo.DemoApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-02 21:54:11 INFO  by.itechart.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2018-08-02 21:54:31 INFO  by.itechart.demo.DemoApplication - Starting DemoApplication on DESKTOP-EHL98F8 with PID 3700 (D:\JavaProjects\demo\target\classes started by Компьютер in D:\JavaProjects\demo)
+2018-08-02 21:54:31 DEBUG by.itechart.demo.DemoApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-02 21:54:31 INFO  by.itechart.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2018-08-02 21:54:34 INFO  by.itechart.demo.DemoApplication - Started DemoApplication in 3.397 seconds (JVM running for 6.424)
+2018-08-02 21:54:54 DEBUG b.i.d.controller.TemplateController - index
+2018-08-02 21:55:31 INFO  by.itechart.demo.DemoApplication - Starting DemoApplication on DESKTOP-EHL98F8 with PID 5988 (D:\JavaProjects\demo\target\classes started by Компьютер in D:\JavaProjects\demo)
+2018-08-02 21:55:31 DEBUG by.itechart.demo.DemoApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-02 21:55:31 INFO  by.itechart.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2018-08-02 21:55:34 INFO  by.itechart.demo.DemoApplication - Started DemoApplication in 3.42 seconds (JVM running for 7.083)
+2018-08-02 21:55:41 DEBUG b.i.d.controller.TemplateController - index
+2018-08-02 21:55:42 DEBUG b.i.d.controller.TemplateController - index
+2018-08-02 21:58:20 INFO  by.itechart.demo.DemoApplication - Starting DemoApplication on DESKTOP-EHL98F8 with PID 3156 (D:\JavaProjects\demo\target\classes started by Компьютер in D:\JavaProjects\demo)
+2018-08-02 21:58:20 DEBUG by.itechart.demo.DemoApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-02 21:58:20 INFO  by.itechart.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2018-08-02 21:58:23 INFO  by.itechart.demo.DemoApplication - Started DemoApplication in 3.669 seconds (JVM running for 7.499)
+2018-08-02 21:58:29 DEBUG b.i.d.controller.TemplateController - index
+2018-08-02 21:58:30 DEBUG b.i.d.controller.TemplateController - index
+2018-08-02 21:58:31 DEBUG b.i.d.controller.TemplateController - index
+2018-08-02 21:59:09 INFO  by.itechart.demo.DemoApplication - Starting DemoApplication on DESKTOP-EHL98F8 with PID 9004 (D:\JavaProjects\demo\target\classes started by Компьютер in D:\JavaProjects\demo)
+2018-08-02 21:59:09 DEBUG by.itechart.demo.DemoApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-02 21:59:09 INFO  by.itechart.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2018-08-02 21:59:14 INFO  by.itechart.demo.DemoApplication - Started DemoApplication in 5.445 seconds (JVM running for 6.697)
+2018-08-02 21:59:22 DEBUG b.i.d.controller.TemplateController - index
+2018-08-02 21:59:22 DEBUG b.i.d.controller.TemplateController - index
+2018-08-02 21:59:22 DEBUG b.i.d.controller.TemplateController - index
+2018-08-02 22:01:12 INFO  by.itechart.demo.DemoApplication - Starting DemoApplication on DESKTOP-EHL98F8 with PID 9404 (D:\JavaProjects\demo\target\classes started by Компьютер in D:\JavaProjects\demo)
+2018-08-02 22:01:12 DEBUG by.itechart.demo.DemoApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-02 22:01:12 INFO  by.itechart.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2018-08-02 22:01:15 INFO  by.itechart.demo.DemoApplication - Started DemoApplication in 3.173 seconds (JVM running for 3.948)
+2018-08-02 22:01:19 DEBUG b.i.d.controller.TemplateController - index
+2018-08-02 22:01:25 DEBUG b.i.d.controller.TemplateController - index
+2018-08-02 22:01:44 INFO  by.itechart.demo.DemoApplication - Starting DemoApplication on DESKTOP-EHL98F8 with PID 2380 (D:\JavaProjects\demo\target\classes started by Компьютер in D:\JavaProjects\demo)
+2018-08-02 22:01:44 DEBUG by.itechart.demo.DemoApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-02 22:01:44 INFO  by.itechart.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2018-08-02 22:01:47 INFO  by.itechart.demo.DemoApplication - Started DemoApplication in 3.172 seconds (JVM running for 3.916)
+2018-08-02 22:01:52 INFO  by.itechart.demo.DemoApplication - Starting DemoApplication on DESKTOP-EHL98F8 with PID 7228 (D:\JavaProjects\demo\target\classes started by Компьютер in D:\JavaProjects\demo)
+2018-08-02 22:01:52 DEBUG by.itechart.demo.DemoApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-02 22:01:52 INFO  by.itechart.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2018-08-02 22:01:55 INFO  by.itechart.demo.DemoApplication - Started DemoApplication in 3.074 seconds (JVM running for 3.884)
+2018-08-02 22:02:00 DEBUG b.i.d.controller.TemplateController - index
+2018-08-02 22:02:58 INFO  by.itechart.demo.DemoApplication - Starting DemoApplication on DESKTOP-EHL98F8 with PID 11408 (D:\JavaProjects\demo\target\classes started by Компьютер in D:\JavaProjects\demo)
+2018-08-02 22:02:58 DEBUG by.itechart.demo.DemoApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-02 22:02:58 INFO  by.itechart.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2018-08-02 22:03:00 INFO  by.itechart.demo.DemoApplication - Started DemoApplication in 3.173 seconds (JVM running for 3.938)
+2018-08-02 22:03:13 DEBUG b.i.d.controller.TemplateController - index
+2018-08-02 22:05:25 INFO  by.itechart.demo.DemoApplication - Starting DemoApplication on DESKTOP-EHL98F8 with PID 10224 (D:\JavaProjects\demo\target\classes started by Компьютер in D:\JavaProjects\demo)
+2018-08-02 22:05:25 DEBUG by.itechart.demo.DemoApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-02 22:05:25 INFO  by.itechart.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2018-08-02 22:05:26 INFO  by.itechart.demo.DemoApplication - Started DemoApplication in 2.029 seconds (JVM running for 2.813)
+2018-08-02 22:05:36 DEBUG b.i.d.controller.TemplateController - index
+2018-08-02 22:05:46 INFO  by.itechart.demo.DemoApplication - Starting DemoApplication on DESKTOP-EHL98F8 with PID 4128 (D:\JavaProjects\demo\target\classes started by Компьютер in D:\JavaProjects\demo)
+2018-08-02 22:05:46 DEBUG by.itechart.demo.DemoApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-02 22:05:46 INFO  by.itechart.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2018-08-02 22:05:48 INFO  by.itechart.demo.DemoApplication - Started DemoApplication in 2.041 seconds (JVM running for 2.779)
+2018-08-02 22:06:05 INFO  by.itechart.demo.DemoApplication - Starting DemoApplication on DESKTOP-EHL98F8 with PID 6996 (D:\JavaProjects\demo\target\classes started by Компьютер in D:\JavaProjects\demo)
+2018-08-02 22:06:05 DEBUG by.itechart.demo.DemoApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-02 22:06:05 INFO  by.itechart.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2018-08-02 22:06:07 INFO  by.itechart.demo.DemoApplication - Started DemoApplication in 2.041 seconds (JVM running for 2.841)
+2018-08-02 22:06:08 DEBUG b.i.d.controller.TemplateController - index
+2018-08-02 22:06:09 DEBUG b.i.d.controller.TemplateController - index
+2018-08-02 22:06:09 DEBUG b.i.d.controller.TemplateController - index
