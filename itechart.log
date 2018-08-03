@@ -179,3 +179,20 @@
 2018-08-03 10:32:39 DEBUG by.itechart.demo.DemoApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
 2018-08-03 10:32:39 INFO  by.itechart.demo.DemoApplication - No active profile set, falling back to default profiles: default
 2018-08-03 10:32:43 INFO  by.itechart.demo.DemoApplication - Started DemoApplication in 5.653 seconds (JVM running for 6.7)
+2018-08-03 14:15:56 INFO  by.itechart.demo.DemoApplication - Starting DemoApplication on wsb-005 with PID 3424 (F:\MyProjects\demo\target\classes started by gennady.novik in F:\MyProjects\demo)
+2018-08-03 14:15:56 DEBUG by.itechart.demo.DemoApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-03 14:15:56 INFO  by.itechart.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2018-08-03 14:16:03 INFO  by.itechart.demo.DemoApplication - Started DemoApplication in 7.436 seconds (JVM running for 8.367)
+2018-08-03 14:32:02 INFO  by.itechart.demo.DemoApplication - Starting DemoApplication on wsb-005 with PID 7376 (F:\MyProjects\demo\target\classes started by gennady.novik in F:\MyProjects\demo)
+2018-08-03 14:32:02 DEBUG by.itechart.demo.DemoApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-03 14:32:02 INFO  by.itechart.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2018-08-03 14:32:08 INFO  by.itechart.demo.DemoApplication - Started DemoApplication in 6.795 seconds (JVM running for 7.65)
+2018-08-03 14:58:43 INFO  by.itechart.demo.DemoApplication - Starting DemoApplication on wsb-005 with PID 6964 (F:\MyProjects\demo\target\classes started by gennady.novik in F:\MyProjects\demo)
+2018-08-03 14:58:43 DEBUG by.itechart.demo.DemoApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-03 14:58:43 INFO  by.itechart.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2018-08-03 15:00:48 INFO  by.itechart.demo.DemoApplication - Starting DemoApplication on wsb-005 with PID 2416 (F:\MyProjects\demo\target\classes started by gennady.novik in F:\MyProjects\demo)
+2018-08-03 15:00:48 DEBUG by.itechart.demo.DemoApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-03 15:00:48 INFO  by.itechart.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2018-08-03 15:02:47 INFO  by.itechart.demo.DemoApplication - Starting DemoApplication on wsb-005 with PID 4608 (F:\MyProjects\demo\target\classes started by gennady.novik in F:\MyProjects\demo)
+2018-08-03 15:02:47 DEBUG by.itechart.demo.DemoApplication - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-03 15:02:47 INFO  by.itechart.demo.DemoApplication - No active profile set, falling back to default profiles: default
