@@ -1,12 +1,8 @@
 package by.itechart.demo.service;
 
-import by.itechart.demo.dao.StudentRepository;
 import by.itechart.demo.model.Student;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import javax.transaction.Transactional;
-import java.time.ZoneId;
 import java.util.ArrayList;
 import java.util.Collection;
 
@@ -14,33 +10,24 @@ import java.util.Collection;
 @Service
 public class StudentService {
 
-    @Autowired
-    StudentRepository studentRepository;
-
-    @Transactional
     public Collection<Student> list() {
         Collection<Student> result = new ArrayList<>();
 
-        Iterable<by.itechart.demo.entity.Student> students = studentRepository.findAll();
-
-        for (by.itechart.demo.entity.Student student: students)
-        {
-            result.add(transformStudent(student));
-        }
+        result.add(createStudent(1, "Иван", "Иванов"));
+        result.add(createStudent(2, "Петр", "Петров"));
+        result.add(createStudent(3, "Семен", "Семенов"));
+        result.add(createStudent(4, "Даша", "Васильева"));
+        result.add(createStudent(5, "Глаша", "Василькова"));
 
         return result;
     }
 
-    private Student transformStudent(by.itechart.demo.entity.Student source)
+    private Student createStudent(Integer id, String firstName, String lastName)
     {
-        Student result = new Student(source.getId());
+        Student result = new Student(id);
 
-        result.setFirstName(source.getFirstName());
-        result.setLastName(source.getLastName());
-
-        if (source.getDateOfBirth() != null) {
-            result.setDateOfBirth(source.getDateOfBirth().toInstant().atZone(ZoneId.systemDefault()).toLocalDate());
-        }
+        result.setFirstName(firstName);
+        result.setLastName(lastName);
 
         return result;
     }
