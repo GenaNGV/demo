@@ -14,7 +14,7 @@ public class StudentServiceTest {
 
     @Test
     public void list() throws Exception {
-        Collection<Student> students = studentService.list();
+        Collection<Student> students = studentService.list(0, 5);
 
         assertNotNull(students);
         assertEquals(students.size() > 0, Boolean.TRUE);

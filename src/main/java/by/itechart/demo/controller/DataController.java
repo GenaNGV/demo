@@ -10,6 +10,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Collection;
+import java.util.HashMap;
+import java.util.Map;
 
 @RestController
 public class DataController {
@@ -20,11 +22,18 @@ public class DataController {
     StudentService studentService;
 
     @RequestMapping("/list")
-    public Collection<Student> students(@RequestParam(value="limit", defaultValue="100") Integer limit, @RequestParam(value="offset", defaultValue="0") Integer offset) {
+    public Map<String, Object> students(@RequestParam(value="limit", defaultValue="5") Integer limit, @RequestParam(value="offset", defaultValue="0") Integer offset) {
 
         log.debug("students list");
-        
-        return studentService.list();
+
+        Map<String, Object> result = new HashMap<>();
+
+        Collection<Student> students = studentService.list(offset, limit);
+
+        result.put("students", students);
+        result.put("total", studentService.getCount());
+
+        return result;
     }
 
 }

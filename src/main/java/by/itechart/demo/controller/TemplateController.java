@@ -13,9 +13,6 @@ public class TemplateController {
 
     @GetMapping("/home")
     public String index() {
-
-        log.debug("index");
-
         return "index.html";
     }
 
