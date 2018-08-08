@@ -36,4 +36,14 @@ public class DataController {
         return result;
     }
 
+    @RequestMapping("/detail")
+    public Student detail(@RequestParam(value="id" ) Integer id) {
+
+        log.debug("edit student {}", id);
+
+        Student student = studentService.get(id);
+
+        return student;
+    }
+
 }

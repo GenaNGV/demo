@@ -8,7 +8,7 @@ var StudentController = {
         var container = $('div.content').empty().append('<table><thead><tr><th>Имя</th><th>Фамилия</th></tr></thead><tbody></tbody></table>');
         var table = container.find('table tbody');
 
-        var template = "<tr><td>{{firstName}}</td><td>{{lastName}}</td></tr>";
+        var template = "<tr><td><a href='/edit?id={{id}}'>{{firstName}}</a></td><td><a href='/edit?id={{id}}'>{{lastName}}</a></td></tr>";
 
         $.each(data, function(index, student) {
             table.append(Mustache.to_html(template, student));

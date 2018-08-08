@@ -20,4 +20,9 @@ public class TemplateController {
     public String students() {
         return "students.html";
     }
+
+    @GetMapping("/edit")
+    public String edit() {
+        return "detail.html";
+    }
 }
